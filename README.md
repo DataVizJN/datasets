@@ -1,8 +1,8 @@
 ## Goal 
 
-This repository makes available datasets I have compiled and figures I have made.
+This repository contains datasets I have compiled and figures I have made.
 
-Refer to [my blog](https://datavizjn.netlify.app/) for details on how I used these datasets and generated these figures.
+Refer to [my blog](https://datavizjn.netlify.app/) for details on how I compiled these datasets and generated these figures.
 
 <br/>
 
@@ -30,6 +30,6 @@ Refer to [my blog](https://datavizjn.netlify.app/) for details on how I used the
 <br/>
 
 
-* For datasets, refer to the [official GitHub repository for #TidyTuesday](https://github.com/rfordatascience/tidytuesday) 
+* For #TidyTuesday datasets, refer to the [official GitHub repository for #TidyTuesday](https://github.com/rfordatascience/tidytuesday) 
 
 
