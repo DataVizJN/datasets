@@ -1,11 +1,19 @@
-### Goal 
+## Goal 
 
 This repository makes available datasets I have compiled and figures I have made.
 
-### TidyTuesday supplemental dataset
+
+## TidyTuesday supplemental dataset
 
 
-### TidyTuesday 2020 output figures
+| Week  | Date  | Dataset | Output figures | 
+| :---: | :---: | :---  | :--- | 
+| 38 | 2020-09-15 | Beyonce & Taylor Swift Lyrics | [Beyonce album info](datasets_TidyTuesday_supp) |
+
+<br/>
+<br/>
+
+## TidyTuesday 2020 output figures
 
 For datasets, refer to the [official GitHub repository for #TidyTuesday](https://github.com/rfordatascience/tidytuesday) 
 
